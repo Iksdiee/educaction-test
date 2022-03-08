@@ -1,0 +1,28 @@
+body {
+	margin-left: 20%;
+	margin-right: 20%;
+	font-family: sans-serif;
+	text-align: justify;
+	/*font-size: 1.25em;*/
+
+}
+a {
+	text-decoration: none;
+}
+.navigation{
+	color: black;
+	text-decoration: underline;
+}
+
+#dog-photo {
+	max-width: 500px;
+	text-align: center;
+}
+
+#dog {
+	max-width: 500px;
+}
+
+#table {
+	border: 1px solid black;
+}
